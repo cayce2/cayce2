@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @cayce2
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Python Development and Automation
+- 👀[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cayce2)](https://git.io/streak-stats)
+
+- 🌱
 
